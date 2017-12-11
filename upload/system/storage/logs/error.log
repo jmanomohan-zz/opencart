@@ -1,0 +1,5 @@
+2017-12-11 11:20:23 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /Users/JIM/Documents/telystory/opencart/upload/system/library/db/mysqli.php on line 7
+2017-12-11 11:20:33 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /Users/JIM/Documents/telystory/opencart/upload/system/library/db/mysqli.php on line 7
+2017-12-11 11:20:39 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'opencart' in /Users/JIM/Documents/telystory/opencart/upload/system/library/db/mysqli.php on line 7
+2017-12-11 11:23:39 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'opencart' in /Users/JIM/Documents/telystory/opencart/upload/system/library/db/mysqli.php on line 7
+2017-12-11 11:24:16 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'opencart' in /Users/JIM/Documents/telystory/opencart/upload/system/library/db/mysqli.php on line 7
